@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 171c974623c13714a9bf6d9ef86eb7ed
+timeCreated: 1489649566
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SlidingPuzzle_1
+    100004: SlidingPuzzle_2
+    100006: SlidingPuzzle_3
+    100008: SlidingPuzzle_4
+    100010: SlidingPuzzle_5
+    100012: SlidingPuzzle_6
+    100014: SlidingPuzzle_7
+    100016: SlidingPuzzle_8
+    100018: SlidingPuzzle_Box
+    400000: //RootNode
+    400002: SlidingPuzzle_1
+    400004: SlidingPuzzle_2
+    400006: SlidingPuzzle_3
+    400008: SlidingPuzzle_4
+    400010: SlidingPuzzle_5
+    400012: SlidingPuzzle_6
+    400014: SlidingPuzzle_7
+    400016: SlidingPuzzle_8
+    400018: SlidingPuzzle_Box
+    2300000: SlidingPuzzle_1
+    2300002: SlidingPuzzle_2
+    2300004: SlidingPuzzle_3
+    2300006: SlidingPuzzle_4
+    2300008: SlidingPuzzle_5
+    2300010: SlidingPuzzle_6
+    2300012: SlidingPuzzle_7
+    2300014: SlidingPuzzle_8
+    2300016: SlidingPuzzle_Box
+    3300000: SlidingPuzzle_1
+    3300002: SlidingPuzzle_2
+    3300004: SlidingPuzzle_3
+    3300006: SlidingPuzzle_4
+    3300008: SlidingPuzzle_5
+    3300010: SlidingPuzzle_6
+    3300012: SlidingPuzzle_7
+    3300014: SlidingPuzzle_8
+    3300016: SlidingPuzzle_Box
+    4300000: SlidingPuzzle_Box
+    4300002: SlidingPuzzle_7
+    4300004: SlidingPuzzle_8
+    4300006: SlidingPuzzle_4
+    4300008: SlidingPuzzle_5
+    4300010: SlidingPuzzle_6
+    4300012: SlidingPuzzle_1
+    4300014: SlidingPuzzle_2
+    4300016: SlidingPuzzle_3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
