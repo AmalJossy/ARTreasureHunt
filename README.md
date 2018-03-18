@@ -7,6 +7,10 @@ Starter code and assets from https://github.com/fi-content2-games-platform/FIcon
 
 File Structure is bit messy. Pull requests after cleanup are invited.
 
+# N.B.
+One of the scene requires phone with Gryscope sensor to work.
+Remove it if you want.
+
 # Instructions 
 
 1. Setup Vuforia Config

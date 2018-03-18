@@ -160,7 +160,6 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 8279d0b6331d1d8d20e1cab3af5ddf79 Assembly-CSharp.dll:.ButtonClick
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Vuforia.TurnOffWordBehaviour
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Vuforia.ReconstructionFromTargetBehaviour
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.CameraSettings
 c80f1db0318b7312bd33a2f144eed41e Assembly-CSharp.dll:.RotatingLockPuzzleLogic
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
@@ -209,3 +208,4 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 d2a2bd333db22f480a8589e167314ecc Assembly-CSharp.dll:Vuforia.UserDefinedTargetBuildingBehaviour
 e72be5fd4e7d7c049eda8f19a9dba33c Assembly-CSharp.dll:.ConnectedLeverPuzzleLogic
 7cac06ac0eaa7257b831c29e4455ce1b Assembly-CSharp.dll:Vuforia.VuforiaConfiguration
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.CameraFocusController
