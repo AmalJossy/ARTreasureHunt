@@ -25,4 +25,3 @@ Remove it if you want.
 1. Duplicate "clue#" and "scene for as many levels you like 
 1. Build apks
 
-Need help ? [WhatsApp](https://api.whatsapp.com/send?phone=919496863169&text=hi)
